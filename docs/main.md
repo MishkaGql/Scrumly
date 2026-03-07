@@ -1,0 +1,2 @@
+## После построения базовой архитектуры - docker,docker compose, gateway, config server, grafana, keyklock - 
+## и базовой архитектуры бд - необходимо в первую очередь откорректировать adr, architecture. Обновить SLO 
